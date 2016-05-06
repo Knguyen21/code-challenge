@@ -1,3 +1,13 @@
+// Task
+//
+// Coding in function giveMeFive, function accept 1 parameter:obj, it's an object.
+//
+// You need traverse obj, if the key length=5, push this key to an array five(or any other name, you need to define it by yourself, this time I won't help you define variable);if the value length=5, push this value to five.
+//
+// Return the five after works finished.
+//
+// You should use for..in in your code,
+
 'use strict';
 
 function giveMeFive(obj){
