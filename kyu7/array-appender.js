@@ -33,7 +33,8 @@ function appendArrays (arr1, arr2) {
 }
 
 
-//best solutionfunction combineArrays (arr1, arr2) {
-    return (arr1||[]).concat(arr2||[]); 
-}
-var appendArrays = combineArrays;
+//best solution
+// function combineArrays (arr1, arr2) {
+//     return (arr1||[]).concat(arr2||[]);
+// }
+// var appendArrays = combineArrays;
